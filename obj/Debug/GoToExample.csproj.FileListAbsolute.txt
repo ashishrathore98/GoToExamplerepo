@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day2\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day2\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day2\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day2\GoToExample\GoToExample\bin\Debug\GoToExample.exe.config
+E:\Simplilearn course\Day2\GoToExample\GoToExample\bin\Debug\GoToExample.exe
+E:\Simplilearn course\Day2\GoToExample\GoToExample\bin\Debug\GoToExample.pdb
+E:\Simplilearn course\Day2\GoToExample\GoToExample\obj\Debug\GoToExample.exe
+E:\Simplilearn course\Day2\GoToExample\GoToExample\obj\Debug\GoToExample.pdb
